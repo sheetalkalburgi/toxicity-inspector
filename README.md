@@ -1,7 +1,8 @@
 # Toxicity Inspector
 
 Data Source: Dataset is obtained from Kaggle as a part of the [Toxic Comment Classification Challenge] hosted by Jigsaw/Conversation AI in 2017.
-[Toxic Comment Classification Challenge]:https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+
+[Toxic Comment Classification Challenge]: https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
 
 ## Motivation
 The recent global pandemic situation has forced masses to rely on the internet now more than ever, for activities as simple as online shopping to online education. Toxic comments are detrimental to internet users and limit their freedom of expression in diverse perspectives, and such unconstructive remarks are discourteous, disrespectful, and detestable. Such animosity results in users disabling their comments on many online communities, and eventually, they stop expressing their opinions. Hence, there is a pressing need to build a fast, precise, and deployable solution to help organizations weed out such remarks from getting online.
